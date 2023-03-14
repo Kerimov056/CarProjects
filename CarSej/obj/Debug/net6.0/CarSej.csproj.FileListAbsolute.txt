@@ -1,0 +1,12 @@
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\bin\Debug\net6.0\CarSej.deps.json
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\bin\Debug\net6.0\CarSej.dll
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\bin\Debug\net6.0\CarSej.pdb
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.AssemblyInfo.cs
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.dll
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\refint\CarSej.dll
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\CarSej.pdb
+C:\Users\Legion\Desktop\work.C#\CarProject\CarSej\obj\Debug\net6.0\ref\CarSej.dll
